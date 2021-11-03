@@ -1,0 +1,14 @@
+C:\Users\trick\Documents\School\PROG101\TipCalculator2.0\TipCalculator2.0\bin\Debug\netcoreapp3.1\TipCalculator2.0.exe
+C:\Users\trick\Documents\School\PROG101\TipCalculator2.0\TipCalculator2.0\bin\Debug\netcoreapp3.1\TipCalculator2.0.deps.json
+C:\Users\trick\Documents\School\PROG101\TipCalculator2.0\TipCalculator2.0\bin\Debug\netcoreapp3.1\TipCalculator2.0.runtimeconfig.json
+C:\Users\trick\Documents\School\PROG101\TipCalculator2.0\TipCalculator2.0\bin\Debug\netcoreapp3.1\TipCalculator2.0.runtimeconfig.dev.json
+C:\Users\trick\Documents\School\PROG101\TipCalculator2.0\TipCalculator2.0\bin\Debug\netcoreapp3.1\TipCalculator2.0.dll
+C:\Users\trick\Documents\School\PROG101\TipCalculator2.0\TipCalculator2.0\bin\Debug\netcoreapp3.1\TipCalculator2.0.pdb
+C:\Users\trick\Documents\School\PROG101\TipCalculator2.0\TipCalculator2.0\obj\Debug\netcoreapp3.1\TipCalculator2.0.csproj.AssemblyReference.cache
+C:\Users\trick\Documents\School\PROG101\TipCalculator2.0\TipCalculator2.0\obj\Debug\netcoreapp3.1\TipCalculator2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trick\Documents\School\PROG101\TipCalculator2.0\TipCalculator2.0\obj\Debug\netcoreapp3.1\TipCalculator2.0.AssemblyInfoInputs.cache
+C:\Users\trick\Documents\School\PROG101\TipCalculator2.0\TipCalculator2.0\obj\Debug\netcoreapp3.1\TipCalculator2.0.AssemblyInfo.cs
+C:\Users\trick\Documents\School\PROG101\TipCalculator2.0\TipCalculator2.0\obj\Debug\netcoreapp3.1\TipCalculator2.0.csproj.CoreCompileInputs.cache
+C:\Users\trick\Documents\School\PROG101\TipCalculator2.0\TipCalculator2.0\obj\Debug\netcoreapp3.1\TipCalculator2.0.dll
+C:\Users\trick\Documents\School\PROG101\TipCalculator2.0\TipCalculator2.0\obj\Debug\netcoreapp3.1\TipCalculator2.0.pdb
+C:\Users\trick\Documents\School\PROG101\TipCalculator2.0\TipCalculator2.0\obj\Debug\netcoreapp3.1\TipCalculator2.0.genruntimeconfig.cache
